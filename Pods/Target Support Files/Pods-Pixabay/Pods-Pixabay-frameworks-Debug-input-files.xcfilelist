@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Pixabay/Pods-Pixabay-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

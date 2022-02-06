@@ -1,0 +1,35 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Kingfisher (7.1.2)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift (from `https://github.com/wowansm/Chameleon.git`, branch `swift5`)
+  - Kingfisher (~> 7.0)
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SnapKit
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :branch: swift5
+    :git: https://github.com/wowansm/Chameleon.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 96d52c36a45847fff60bcff7a58fec1e4bd7390b
+    :git: https://github.com/wowansm/Chameleon.git
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: b9cd33a3c3a69b9db01487e460fa4f1d63553cf8
+
+COCOAPODS: 1.11.2
